@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class EbankServiceApplication {
+public class EbankServiceApplicationTest {
 
     public static void main(String[] args) {
-        SpringApplication.run(EbankServiceApplication.class, args);
+        SpringApplication.run(EbankServiceApplicationTest.class, args);
     }
 
 
